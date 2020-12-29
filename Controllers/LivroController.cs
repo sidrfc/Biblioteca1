@@ -9,7 +9,7 @@ namespace Biblioteca.Controllers
         {
             Autenticacao.CheckLogin(this);
             return View();
-        }
+        }       
 
         [HttpPost]
         public IActionResult Cadastro(Livro l)
@@ -37,7 +37,7 @@ namespace Biblioteca.Controllers
                 objFiltro = new FiltrosLivros();
                 objFiltro.Filtro = filtro;
                 objFiltro.TipoFiltro = tipoFiltro;
-            }
+            } 
             LivroService livroService = new LivroService();
             return View(livroService.ListarTodos(objFiltro));
         }

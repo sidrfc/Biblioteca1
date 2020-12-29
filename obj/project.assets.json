@@ -845,23 +845,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lucas Fraga\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Sidney\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS Code Projects\\net-core-projects\\Biblioteca\\netcore3.0\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Sidney\\Desktop\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "D:\\VS Code Projects\\net-core-projects\\Biblioteca\\netcore3.0\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\Lucas Fraga\\.nuget\\packages\\",
-      "outputPath": "D:\\VS Code Projects\\net-core-projects\\Biblioteca\\netcore3.0\\Biblioteca\\obj\\",
+      "projectPath": "C:\\Users\\Sidney\\Desktop\\Biblioteca\\Biblioteca.csproj",
+      "packagesPath": "C:\\Users\\Sidney\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sidney\\Desktop\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Lucas Fraga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sidney\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
